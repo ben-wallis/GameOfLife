@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameOfLife.UI", "GameOfLife.UI\GameOfLife.UI.csproj", "{3546179B-236D-4A15-855E-ED9DDACD4A37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameOfLife.UI.Tests", "GameOfLife.UI.Tests\GameOfLife.UI.Tests.csproj", "{31B32FA7-D5F8-4C60-B82E-C31FAC152E43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameOfLife.Core", "GameOfLife.Core\GameOfLife.Core.csproj", "{A420151A-AC57-47D7-8E49-F43CB0905239}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3546179B-236D-4A15-855E-ED9DDACD4A37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3546179B-236D-4A15-855E-ED9DDACD4A37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3546179B-236D-4A15-855E-ED9DDACD4A37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3546179B-236D-4A15-855E-ED9DDACD4A37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31B32FA7-D5F8-4C60-B82E-C31FAC152E43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31B32FA7-D5F8-4C60-B82E-C31FAC152E43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31B32FA7-D5F8-4C60-B82E-C31FAC152E43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31B32FA7-D5F8-4C60-B82E-C31FAC152E43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A420151A-AC57-47D7-8E49-F43CB0905239}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A420151A-AC57-47D7-8E49-F43CB0905239}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A420151A-AC57-47D7-8E49-F43CB0905239}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A420151A-AC57-47D7-8E49-F43CB0905239}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
