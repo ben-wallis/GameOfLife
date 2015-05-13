@@ -9,6 +9,9 @@
         d:DataContext="{d:DesignInstance Type=viewModels:MainWindowViewModel}"
         x:ClassModifier="internal"
         Title="MainWindow" Height="800" Width="800">
+    <Window.Resources>
+        
+    </Window.Resources>
     <Grid x:Name="LayoutGrid">
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="75*"/>

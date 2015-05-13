@@ -1,6 +1,4 @@
-﻿using System.Windows.Controls;
-
-using GameOfLife.Core;
+﻿using GameOfLife.Core;
 
 namespace GameOfLife.UI.ViewModels
 {
